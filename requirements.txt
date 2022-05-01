@@ -2,4 +2,4 @@ pylint
 pytest
 click
 pytest-cov
-blackmake
+black
